@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JAVA, Web Development, Adobe Photoshop**
 
-- 👨‍💻 All of my projects are available at [ansh12500.github.io/myselfanandshukla.github.io](ansh12500.github.io/myselfanandshukla.github.io)
+- 👨‍💻 All of my projects are available at [https://ansh12500.github.io/myselfanandshukla.github.io](https://ansh12500.github.io/myselfanandshukla.github.io)
 
 - 💬 Ask me about **JAVA & HTML,CSS,JavaScript**
 
