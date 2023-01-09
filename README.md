@@ -1,7 +1,7 @@
 ![logo](https://github.com/ansh12500/ansh12500/blob/master/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Anand Shukla</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprograming&psig=AOvVaw3qFPb3J-JGTctQAqjvDDV8&ust=1673366527791000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPCppZ3uuvwCFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://github.com/ansh12500/ansh12500/blob/master/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh12500&label=Profile%20views&color=0e75b6&style=flat" alt="ansh12500" /> </p>
 
