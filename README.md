@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anand Shukla</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img align="right" alt="codingimg" width="400" src="">
+<img align="right" alt="codingimg" width="400" src="https://github.com/ansh12500/ansh12500/blob/master/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh12500&label=Profile%20views&color=0e75b6&style=flat" alt="ansh12500" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansh12500" alt="ansh12500" /></a> </p>
+
 
 - 🌱 I’m currently learning **JAVA, Full Stack Web Development**
 
