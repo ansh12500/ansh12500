@@ -10,7 +10,7 @@
 
 - 💻 My portfolio project is available at [https://ansh12500.github.io/myselfanandshukla.github.io](https://ansh12500.github.io/myselfanandshukla.github.io)
 
-- 💬 Ask me about **JAVA, HTML, CSS**
+- 💬 Ask me about **JAVA, HTML, CSS, Javascript, Node.js, React.js, MySQL**
 
 - 📫 How to reach me **anandshukla1250@gmail.com**
 
