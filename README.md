@@ -6,11 +6,11 @@
 
 
 
-- 🌱 I’m currently learning **JAVA, Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💻 My portfolio project is available at [https://ansh12500.github.io/myselfanandshukla.github.io](https://ansh12500.github.io/myselfanandshukla.github.io)
 
-- 💬 Ask me about **JAVA, HTML, CSS, Javascript, Node.js, React.js, MySQL**
+- 💬 Ask me about **HTML, CSS, Javascript, Node.js, React.js, MySQL**
 
 - 📫 How to reach me **anandshukla1250@gmail.com**
 
